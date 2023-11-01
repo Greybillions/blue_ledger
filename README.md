@@ -1,6 +1,6 @@
-# Hotel Website
+# BLUE LEDGER 
 
-Welcome to my **BLUE LEDGER WEBSITE**! 
+Welcome to my **BLUE LEDGER FINANCE WEBSITE**! 
 
 This project illustrates the use of HTML and CSS 
 in creating a responsive web page that adapts to any screen size.
