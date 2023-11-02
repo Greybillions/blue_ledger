@@ -17,7 +17,7 @@ This is a simple business webpage.
 
 ## Usage
 Here's how you can view this project:
-- Open your browser and go to (coming soon)
+- Open your browser and go to https://blue-ledger.vercel.app/
 
 ## Contributing
 We welcome contributions! To contribute:
