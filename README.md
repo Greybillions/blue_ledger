@@ -3,7 +3,7 @@
 Welcome to my **BLUE LEDGER FINANCE WEBSITE**! 
 
 Thank You for coming this far. 
-This project illustrates the use of HTML and CSS 
+This project illustrates the use of HTML and CSS and a little javascript 
 in creating a responsive web page that adapts to any screen size.
 This is a simple business webpage.
 
